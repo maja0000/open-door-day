@@ -8,7 +8,7 @@ body {
   /* background: ; */
 }
 h1,
-p,
+span,
 form button {
   color: white;
 }
@@ -26,7 +26,7 @@ h2 {
   margin-top: 0;
   color: #016172;
 }
-p {
+span {
   font-size: 2vw;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
 }
